@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
