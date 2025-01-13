@@ -1,6 +1,7 @@
 class Solution {
     public int minimumLength(String s) {
         int n=s.length();
+        int len=0;
         if(n<3) return n;
         else{
             HashMap<Character, Integer> map=new HashMap<>();
@@ -8,12 +9,9 @@ class Solution {
                 map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
             }
             for(Map.Entry<Character, Integer> entry:map.entrySet()){
-                while(entry.getValue()>=3){
-                    map.put(entry.getKey(),entry.getValue()-2);
-                    n-=2;
-                }
+                len+=(entry.getValue()%2==0)?2:1;
             }
         }
-        return n;
+        return len;
     }
 }
