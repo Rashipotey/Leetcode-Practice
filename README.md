@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
