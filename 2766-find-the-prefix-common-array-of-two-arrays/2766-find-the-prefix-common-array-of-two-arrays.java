@@ -8,22 +8,12 @@ class Solution {
             map.put(A[i],map.getOrDefault(A[i],0)+1);
             map.put(B[i],map.getOrDefault(B[i],0)+1);
             if(A[i]!=B[i]){
-                if((map.containsKey(A[i]) && map.get(A[i])==2)){
-                    eq++;
-                    ans[i]=eq;
-                }else{
-                    ans[i]=eq;
-                }
-                if((map.containsKey(B[i]) && map.get(B[i])==2)){
-                    eq++;
-                    ans[i]=eq;
-                }else{
-                    ans[i]=eq;
-                }
+                if(map.get(A[i])==2) eq++;
+                if(map.get(B[i])==2) eq++;
             }else{
                 eq++;
-                ans[i]=eq;
             }
+            ans[i]=eq;
         }
         return ans;
     }
