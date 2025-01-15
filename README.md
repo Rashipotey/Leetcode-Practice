@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
