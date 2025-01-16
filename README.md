@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
