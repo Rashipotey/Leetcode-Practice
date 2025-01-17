@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
