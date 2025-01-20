@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
