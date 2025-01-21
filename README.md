@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1801-average-time-of-process-per-machine) |
 ## Bit Manipulation
 |  |
 | ------- |
