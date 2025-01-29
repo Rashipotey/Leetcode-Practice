@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
