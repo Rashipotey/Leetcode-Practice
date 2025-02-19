@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 ## Matrix
@@ -255,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
