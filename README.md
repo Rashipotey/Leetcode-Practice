@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
