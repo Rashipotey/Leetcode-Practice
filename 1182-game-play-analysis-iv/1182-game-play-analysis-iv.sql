@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+select round(count(a.player_id)/count(b.player_id),2) as fraction from activity a right join activity b on a.player_id = b.player_id and a.event_date = b.event_date +1 where ( b.player_id , b.event_date )in (select  player_id , min(event_date)  from activity  group by player_id) 
