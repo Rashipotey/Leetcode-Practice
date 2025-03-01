@@ -1,0 +1,1 @@
+SELECT person_name FROM (SELECT person_name, SUM(weight) OVER(ORDER BY turn) Sum_Weight FROM Queue ORDER BY Sum_Weight DESC ) WHERE Sum_weight <= 1000 AND ROWNUM = 1;
