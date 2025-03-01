@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1338-queries-quality-and-percentage) |
 | [1452-restaurant-growth](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1801-average-time-of-process-per-machine) |
