@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1338-queries-quality-and-percentage) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1773-percentage-of-users-attended-a-contest) |
