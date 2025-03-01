@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0577-employee-bonus) |
