@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 ## Database
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
