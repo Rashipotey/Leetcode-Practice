@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0155-min-stack) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -371,11 +373,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Indexed Tree
