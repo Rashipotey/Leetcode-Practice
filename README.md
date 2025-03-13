@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3643-zero-array-transformation-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [3643-zero-array-transformation-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
 | ------- |
