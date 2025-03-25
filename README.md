@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2509-minimize-xor) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [1364-tuple-with-same-product](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
