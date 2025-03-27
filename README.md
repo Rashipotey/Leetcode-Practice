@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2509-minimize-xor) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3430-count-days-without-meetings) |
