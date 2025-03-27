@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
