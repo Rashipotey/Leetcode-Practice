@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0290-word-pattern) |
+| [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
+| [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
