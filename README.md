@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
