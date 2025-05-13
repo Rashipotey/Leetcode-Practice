@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0051-n-queens) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0078-subsets) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
