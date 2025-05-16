@@ -1,14 +1,16 @@
 class Solution {
-    public int climbStairs(int n) {
-        if(n<=3) return n;
-        int prev1=3;
-        int prev2=2;
-        int cur=0;
-        for(int i=3;i<n;i++){
-            cur=prev1+prev2;
-            prev2=prev1;
-            prev1=cur;
+    public int recursion(int n, int[] dp){
+        if(n==0) return 1;
+        if(n<0) return 0;
+        if(dp[n]!=-1){
+            return dp[n];
         }
-        return cur;        
+        dp[n]=recursion(n-1, dp)+recursion(n-2,dp);
+        return dp[n];
+    }
+    public int climbStairs(int n) {
+        int [] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return recursion(n, dp);
     }
 }
