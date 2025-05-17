@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0213-house-robber-ii) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
