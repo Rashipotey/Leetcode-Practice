@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [1364-tuple-with-same-product](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
@@ -245,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
@@ -514,4 +520,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2610-closest-prime-numbers-in-range) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
