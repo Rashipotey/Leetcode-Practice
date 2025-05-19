@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
+| [0907-koko-eating-bananas](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [3643-zero-array-transformation-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
