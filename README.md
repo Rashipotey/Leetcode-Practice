@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0763-special-binary-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0763-special-binary-string) |
 | [2050-count-good-numbers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2050-count-good-numbers) |
 ## Backtracking
