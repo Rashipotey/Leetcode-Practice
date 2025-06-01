@@ -9,30 +9,17 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode> l1=new ArrayList<>();
-        List<TreeNode> l2=new ArrayList<>();
-        getPath(root, p, l1);
-        getPath(root, q, l2);
-        int i=0;
-        TreeNode comm=null;
-        while(i<l1.size() && i<l2.size()){
-            if(l1.get(i)==l2.get(i)){
-                comm=l1.get(i);
-            }
-            i++;
-        }
-        return comm;
+        return getLCA(root,p,q);
     }
-    private boolean getPath(TreeNode root, TreeNode target, List<TreeNode> path){
-        if(root==null) return false;
-        path.add(root);
-        if(root==target){
-            return true;
+    private TreeNode getLCA(TreeNode root, TreeNode p, TreeNode q){
+        if(root==null) return null;
+        if(root==p || root==q){
+            return root;
         }
-        if(getPath(root.left, target, path) || getPath(root.right, target, path)){
-            return true;
-        }
-        path.remove(path.size()-1);
-        return false;
+        TreeNode leftLCA=getLCA(root.left,p,q);
+        TreeNode rightLCA=getLCA(root.right,p,q);
+        if(rightLCA==null) return leftLCA;
+        if(leftLCA==null) return rightLCA;
+        return root;
     }
 }
