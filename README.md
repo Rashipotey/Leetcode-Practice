@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1135-customers-who-bought-all-products) |
 | [1161-project-employees-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1161-project-employees-i) |
+| [1179-game-play-analysis-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1278-product-price-at-a-given-date) |
