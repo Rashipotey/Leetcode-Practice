@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2087-confirmation-rate) |
