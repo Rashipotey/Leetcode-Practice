@@ -4,16 +4,17 @@
  */
 var once = function(fn) {
     let ans;
-    let called = false;
+    let called=false;
     return function(...args){
-       if(!called){
-        ans = fn(...args);
-        called = true;
+        if(!called){
+            ans=fn(...args);
+            called=true;
+        }
+        else ans=undefined;
         return ans;
-       }
-       else return undefined;
     }
 };
+
 /**
  * let fn = (a,b,c) => (a + b + c)
  * let onceFn = once(fn)
