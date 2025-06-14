@@ -3,19 +3,17 @@
  * @return {Function}
  */
 function memoize(fn) {
-    const cache = new Map(); 
-    let callCount = 0; 
-
-    const memoizedFn = function(...args) {
-        const key = JSON.stringify(args); 
-        if (!cache.has(key)) {
-            callCount++; 
-            cache.set(key, fn(...args)); 
+    const map=new Map();
+    return function(...args) {
+        const key=JSON.stringify(args);
+        if(map.has(key)){
+            return map.get(key);
+        }else{
+            const res=fn(...args);
+            map.set(key,res);
+            return res;
         }
-        return cache.get(key); 
-    };
-
-    return memoizedFn;
+    }
 }
 
 
