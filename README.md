@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -692,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
