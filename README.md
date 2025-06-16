@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Simulation
 |  |
 | ------- |
@@ -699,4 +702,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
