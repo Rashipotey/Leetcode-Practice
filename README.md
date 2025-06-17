@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2793-count-the-number-of-complete-components) |
