@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -754,5 +758,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
