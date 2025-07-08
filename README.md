@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0090-subsets-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0290-word-pattern) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0542-01-matrix) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
