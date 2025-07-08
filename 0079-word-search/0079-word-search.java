@@ -9,17 +9,19 @@ class Solution {
         return false;
     }
     private boolean dfs(char[][] board, String word, int i, int r, int c){
-        if(board[r][c]!=word.charAt(i)) return false;
-        if(i==word.length()-1) return true;
+        if(r<0 || r>=board.length || c<0 || c>=board[0].length || board[r][c]!=word.charAt(i)){
+            return false;
+        }
+        if(i==word.length()-1){
+            return true;
+        }
         char temp=board[r][c];
         board[r][c]='#';
-        for(int d[]:dir){
-            int nx=d[0]+r, ny=d[1]+c;
-            if(nx>=0 && nx<board.length && ny>=0 && ny<board[0].length){
-                if(dfs(board,word,i+1,nx,ny)) return true;
-            }
+        for(int[] d:dir){
+            int nx=r+d[0], ny=c+d[1];
+            if(dfs(board,word,i+1,nx,ny)) return true;
         }
-        board[r][c]=temp;
+        board[r][c]=temp;  
         return false;
     }
 }
