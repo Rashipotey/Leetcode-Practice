@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3396-valid-word](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
