@@ -1,7 +1,15 @@
 class Solution {
     public boolean isValid(String word) {
         if(word.length()<3) return false;
-        String regex="^(?=[a-zA-Z0-9]{3,}$)(?=.*[aeiouAEIOU])(?=.*[b-df-hj-np-tv-zB-DF-HJ-NP-TV-Z])[a-zA-Z0-9]+$";
-        return word.matches(regex);
+        boolean isVowel=false, isCons=false;
+        for(char c:word.toCharArray()){
+            if(Character.isLetter(c)){
+                char ch=Character.toLowerCase(c);
+                if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
+                    isVowel=true;
+                }else isCons=true;
+            }else if(!Character.isDigit(c)) return false;
+        }
+        return isVowel && isCons;
     }
 }
