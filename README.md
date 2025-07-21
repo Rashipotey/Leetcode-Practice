@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0062-unique-paths) |
