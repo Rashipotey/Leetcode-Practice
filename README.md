@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
