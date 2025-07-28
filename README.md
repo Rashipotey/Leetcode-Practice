@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0282-expression-add-operators](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1500-count-largest-group) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
