@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0455-assign-cookies) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0062-unique-paths) |
