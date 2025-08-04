@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0173-binary-search-tree-iterator) |
