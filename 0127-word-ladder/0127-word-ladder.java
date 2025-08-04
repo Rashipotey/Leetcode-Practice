@@ -1,38 +1,28 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Set<String> wordSet = new HashSet<>(wordList);
-        if (!wordSet.contains(endWord)) {
-            return 0;
-        }
-
-        Queue<String> queue = new LinkedList<>();
-        queue.offer(beginWord);
-        int level = 1;
-
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-
-            for (int i = 0; i < size; i++) {
-                String word = queue.poll();
-                char[] wordChars = word.toCharArray();
-
-                for (int j = 0; j < wordChars.length; j++) {
-                    char originalChar = wordChars[j];
-
-                    for (char c = 'a'; c <= 'z'; c++) {
-                        wordChars[j] = c;
-                        String newWord = new String(wordChars);
-
-                        if (newWord.equals(endWord)) {
-                            return level + 1;
-                        }
-
-                        if (wordSet.contains(newWord)) {
-                            queue.offer(newWord);
-                            wordSet.remove(newWord); // mark visited
+        Set<String> visit=new HashSet<>(wordList);
+        if (!visit.contains(endWord)) return 0;
+        Queue<String> q=new LinkedList<>();
+        int level=1;
+        q.add(beginWord);
+        while(!q.isEmpty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                String word=q.poll();
+                char[] ch=word.toCharArray();
+                for(int j=0;j<ch.length;j++){
+                    char originalChar=ch[j];
+                    for(char k='a';k<='z';k++){
+                        if(ch[j]==k) continue;
+                        ch[j]=k;
+                        String nW=new String(ch);
+                        if(nW.equals(endWord)) return level+1;
+                        if(visit.contains(nW)) {
+                            q.add(nW);
+                            visit.remove(nW);
                         }
                     }
-                    wordChars[j] = originalChar;
+                    ch[j]=originalChar;
                 }
             }
             level++;
