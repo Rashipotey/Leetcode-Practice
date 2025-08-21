@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0900-reordered-power-of-2) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0514-freedom-trail](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0542-01-matrix) |
