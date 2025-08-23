@@ -1,16 +1,17 @@
+import java.lang.Iterable;
 class Solution {
     public String simplifyPath(String path) {
-        Stack<String> strS=new Stack<>();
-        String[] splitStr=path.split("/");
+        Deque<String> strS=new ArrayDeque<>();
         StringBuilder sb=new StringBuilder();
-        for(int i=0;i<splitStr.length;i++){
-            if(splitStr[i].equals(".") || splitStr[i].equals("")) continue;
-            else if(splitStr[i].equals("..")){
+        for(String dir:path.split("/")){
+            if(dir.equals(".") || dir.equals("")) continue;
+            else if(dir.equals("..")){
                 if(!strS.isEmpty()) strS.pop();
-            }else strS.push(splitStr[i]);
+            }else strS.push(dir);
         }
-        for(String s:strS){
-            sb.append("/"+s);
+        Iterator<String> it=strS.descendingIterator();
+        while(it.hasNext()){
+            sb.append("/").append(it.next());
         }
         return sb.length()>0?sb.toString():"/";
     }
