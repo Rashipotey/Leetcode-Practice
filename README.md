@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0097-interleaving-string) |
