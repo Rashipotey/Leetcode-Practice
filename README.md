@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0282-expression-add-operators) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0101-symmetric-tree) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0101-symmetric-tree) |
@@ -952,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
