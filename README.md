@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
@@ -1014,5 +1016,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
