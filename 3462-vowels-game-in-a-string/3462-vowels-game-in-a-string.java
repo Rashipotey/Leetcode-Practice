@@ -4,8 +4,7 @@ class Solution {
         for(char c:s.toCharArray()){
             if(isVowel(c)) n++;
         }
-        if(n%2==1) return true;
-        else if(n==0) return false;
+        if(n==0) return false;
         else return true;
     }
     private boolean isVowel(char ch){
