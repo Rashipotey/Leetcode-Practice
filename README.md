@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0514-freedom-trail) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
