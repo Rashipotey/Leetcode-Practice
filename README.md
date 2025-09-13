@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
