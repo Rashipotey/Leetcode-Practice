@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1036-rotting-oranges) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0763-special-binary-string) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
