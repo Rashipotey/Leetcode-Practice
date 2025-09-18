@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3678-design-task-manager) |
 ## Array
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3678-design-task-manager](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3678-design-task-manager](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3678-design-task-manager) |
 ## Recursion
 |  |
 | ------- |
