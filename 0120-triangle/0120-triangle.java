@@ -1,6 +1,5 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        int min=Integer.MAX_VALUE;
         int n=triangle.size();
         for(int i=n-2;i>=0;i--){
             for(int j=0;j<triangle.get(i).size();j++){
