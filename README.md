@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0794-swim-in-rising-water) |
+| [0830-largest-triangle-area](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0343-integer-break) |
+| [0830-largest-triangle-area](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1063,4 +1065,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
