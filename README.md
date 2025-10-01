@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
+| [1642-water-bottles](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
