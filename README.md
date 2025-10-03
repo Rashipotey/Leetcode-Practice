@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0455-assign-cookies) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0355-design-twitter) |
+| [0407-trapping-rain-water-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0794-swim-in-rising-water) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0794-swim-in-rising-water) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0547-number-of-provinces) |
