@@ -18,7 +18,7 @@ class Solution {
     private long binarySearch(long[] prevTime, int[]skill, int[]mana, int potionNo){
         long l=prevTime[0], r=prevTime[prevTime.length-1];
         while(l<r){
-            long m=l+(r-l)/2;
+            long m=(long)(l+r)>>>1;
             if(canStart(m,potionNo,skill,mana,prevTime)){
                 r=m;
             }else{
