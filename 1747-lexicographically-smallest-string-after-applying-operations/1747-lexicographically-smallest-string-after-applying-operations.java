@@ -11,11 +11,9 @@ class Solution {
             visit.add(curr);
             if(curr.compareTo(min)<0) min=curr;
             StringBuilder sb=new StringBuilder(curr);
-            for(int i=0;i<n;i++){
-                if((i&1)==1){
-                    int digit=(sb.charAt(i)-'0'+a)%10;
-                    sb.setCharAt(i,(char)(digit+'0'));
-                }
+            for(int i=1;i<n;i+=2){
+                int digit=(sb.charAt(i)-'0'+a)%10;
+                sb.setCharAt(i,(char)(digit+'0'));
             }
             String str=sb.toString();
             if(!visit.contains(str)) pq.add(str);
