@@ -1,13 +1,9 @@
 class Solution {
     public int totalMoney(int n) {
-        int res=0, st=1;
-        while(n>0){
-            for(int i=0;i<Math.min(n,7);i++){
-                res+=st+i;
-            }
-            st++;
-            n-=7;
-        }
-        return res;
+        int nWeeks=n/7, rDays=n%7;
+        return triSum(n)-42*triSum(nWeeks-1)-6*nWeeks*rDays;
+    }
+    private int triSum(int n){
+        return (n*(n+1))/2;
     }
 }
