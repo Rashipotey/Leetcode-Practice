@@ -1,9 +1,8 @@
 class Solution {
     public int totalMoney(int n) {
         int nWeeks=n/7, rDays=n%7;
-        return triSum(n)-42*triSum(nWeeks-1)-6*nWeeks*rDays;
-    }
-    private int triSum(int n){
-        return (n*(n+1))/2;
+        int total=28*nWeeks+(7*nWeeks*(nWeeks-1))/2;
+        total+=rDays*nWeeks+(rDays*(rDays+1))/2;
+        return total;
     }
 }
