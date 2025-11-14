@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2625-increment-submatrices-by-one](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2792-neighboring-bitwise-xor) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
+| [2625-increment-submatrices-by-one](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3643-zero-array-transformation-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
