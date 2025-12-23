@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0876-hand-of-straights) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
