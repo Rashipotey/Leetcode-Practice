@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3447-clear-digits) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2047-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search Tree
 |  |
 | ------- |
