@@ -1,15 +1,26 @@
 class Solution {
     public long subArrayRanges(int[] nums) {
-        long sum=0;
+        // sum of (max-min)== (sum of max values of all subarrays)-(sum of min values of all subarrays)
         int n=nums.length;
-        for(int i=0;i<n;i++){
-            int max=Integer.MIN_VALUE, min=Integer.MAX_VALUE;
-            for(int j=i;j<n;j++){
-                max=Math.max(max,nums[j]);
-                min=Math.min(min,nums[j]);
-                sum+=(max-min);
+        long ans=0;
+        Deque<Integer> st=new ArrayDeque<>();
+        for(int i=0;i<=n;i++){
+            while(!st.isEmpty() && (i==n || nums[st.peekLast()]>=nums[i])){
+                int m=st.pollLast();
+                int l=st.isEmpty()?-1:st.peekLast();
+                ans-=(long)nums[m]*(i-m)*(m-l);
             }
+            st.add(i);
         }
-        return sum;
+        st.clear();
+        for(int i=0;i<=n;i++){
+            while(!st.isEmpty() && (i==n || nums[st.peekLast()]<=nums[i])){
+                int m=st.pollLast();
+                int l=st.isEmpty()?-1:st.peekLast();
+                ans+=(long)nums[m]*(i-m)*(m-l);
+            }
+            st.add(i);
+        }
+        return ans;
     }
 }
