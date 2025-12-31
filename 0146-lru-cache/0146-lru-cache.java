@@ -40,8 +40,8 @@ class LRUCache {
     
     public void put(int key, int value) {
         if(capacity==0) return;
-        if(map.containsKey(key)){
-            Node node=map.get(key);
+        Node node=map.get(key);
+        if(node!=null){
             node.val=value;
             deleteNode(node);
             addNode(node);
