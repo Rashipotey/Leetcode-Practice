@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
