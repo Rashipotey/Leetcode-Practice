@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0213-house-robber-ii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
