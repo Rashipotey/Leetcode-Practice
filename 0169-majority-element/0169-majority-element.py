@@ -1,10 +1,8 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count_map={}
-        length=len(nums)
+        count, candidate=0, None
         for n in nums:
-            count_map[n]=count_map.get(n,0)+1
-        for key, value in count_map.items():
-            if value>length//2:
-                return key
-        return -1
+            if count==0:
+                candidate=n
+            count+=1 if n==candidate else -1
+        return candidate
