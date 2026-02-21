@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
