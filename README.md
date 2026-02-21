@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1018-largest-perimeter-triangle) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1612-avoid-flood-in-the-city) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -1088,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
