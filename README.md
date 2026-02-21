@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0343-integer-break) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Rashipotey/Leetcode-Practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Rashipotey/Leetcode-Practice/tree/master/1018-largest-perimeter-triangle) |
