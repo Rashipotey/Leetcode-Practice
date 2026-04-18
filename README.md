@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rashipotey/Leetcode-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3447-clear-digits) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3834-merge-adjacent-equal-elements) |
 ## Design
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Rashipotey/Leetcode-Practice/tree/master/3834-merge-adjacent-equal-elements) |
 ## Ordered Set
 |  |
 | ------- |
